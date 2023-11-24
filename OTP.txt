@@ -1,0 +1,7 @@
+1.Check if the OTP is a number or not
+2. Check if the number of digits of the OTP equals to the number of digits of the input field of the system
+3. Check if the OTP is accepted after the time limit exceeds
+4.Verify if the system accepts the actual OTP and rejects the wrong one
+5.Check if the OTP message arrives before the time limit exceeds
+6.Check if the OTP is auto submitted when the time limit exceeds and user has typed the OTP but has not clicked the submit button
+7. Check if a new OTP code is generated or not whenever user click on “Resend OTP?” button 
