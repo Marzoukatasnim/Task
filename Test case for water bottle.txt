@@ -1,8 +1,0 @@
-Test case for a non-plastic water bottle:
-1. Check if the cap tightly lock the water bottle so that there is no water dripping while the cap is locked 
-2.Check if there is any leakage in the bottle body while the bottle is filled with water
-3.check the width/diameter of the bottle to ensure that it is easily grippable
-4.Check if the bottom part is equally even or not to ensure that the bottle can stand straight
-5.Check if the holder can hold the bottle when it is filled  with water
-6.Check if the bottle shrink or expand when the bottle is filled with specific temparature of water
-7.Check if the bottle has a narrow mouth or not
